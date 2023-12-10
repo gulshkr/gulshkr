@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Cloud Automation**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **DEVOPS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gulshkr](https://github.com/gulshkr)
 
