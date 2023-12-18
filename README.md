@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **DEVOPS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gulskr](https://github.com/gulskr)
+- 👨‍💻 All of my projects are available at [https://github.com/gulshkr](https://github.com/gulshkr)
 
-- 📫 How to reach me **[(https://gulskr.netlify.app/)](https://gulskr.netlify.app/)**
+- 📫 How to reach me **[(https://gulshkr.netlify.app/)](https://gulshkr.netlify.app/)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IsDC6jeBoOEQIYXEI5V1H7j_b0ls6ecL/view?usp=sharing](https://drive.google.com/file/d/1IsDC6jeBoOEQIYXEI5V1H7j_b0ls6ecL/view?usp=sharing)
 
