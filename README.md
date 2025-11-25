@@ -35,34 +35,67 @@ Building reliable cloud systems, automating everything, and enabling scalable de
 ---
 
 ## 🧰 Tech & Tools
-
 <p align="center">
 
-<!-- Cloud & DevOps -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" alt="AWS"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" alt="Kubernetes"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" alt="Docker"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" alt="Linux"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" alt="Bash"/> &nbsp;
+<!-- Cloud -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45" />
 
-<!-- IaC & CI/CD -->
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" alt="Terraform"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" alt="Ansible"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" alt="Helm"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="40" alt="ArgoCD"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" alt="Jenkins"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" alt="GitHub Actions"/> &nbsp;
+<!-- Kubernetes -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" />
 
-<!-- Observability -->
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" alt="Elastic Stack"/> &nbsp;
-<img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="40" alt="Grafana"/> &nbsp;
-<img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus-logo.svg" width="40" alt="Prometheus"/> &nbsp;
-<img src="https://raw.githubusercontent.com/grafana/loki/master/docs/logo.png" width="40" alt="Loki"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/fluentbit/fluentbit-icon.svg" width="40" alt="Fluent Bit"/> &nbsp;
+<!-- Docker -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" />
 
-<!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/> &nbsp;
+<!-- Linux -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
+
+<!-- Bash -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" />
+
+<br>
+
+<!-- Terraform -->
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="45" />
+
+<!-- Ansible -->
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="45" />
+
+<!-- Helm -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="45" />
+
+<!-- ArgoCD -->
+<img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="45" />
+
+<!-- Jenkins -->
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45" />
+
+<!-- GitHub Actions -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" />
+
+<br>
+
+<!-- Elastic -->
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-official.svg" width="45" />
+
+<!-- Grafana -->
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45" />
+
+<!-- Prometheus -->
+<img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus-logo.svg" width="45" />
+
+<!-- Loki -->
+<img src="https://raw.githubusercontent.com/grafana/loki/master/docs/logo.png" width="45" />
+
+<!-- Fluent Bit -->
+<img src="https://fluentbit.io/assets/img/logo1-default.png" width="45" />
+
+<br>
+
+<!-- Python -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+
+<!-- Git -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
 
 </p>
 
