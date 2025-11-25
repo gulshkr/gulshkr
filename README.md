@@ -32,8 +32,9 @@ Building reliable cloud systems, automating everything, and enabling scalable de
 
 <div align="center">
 
-<img alt="Gulshan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gulshkr&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" />
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshkr&layout=compact&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=gulshkr&theme=dark&show_icons=true&hide_border=true" height="180" />
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gulshkr&layout=compact&theme=dark&hide_border=true" height="180" />
 
 </div>
 
