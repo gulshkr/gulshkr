@@ -63,8 +63,9 @@ Building reliable cloud systems, automating everything, and enabling scalable de
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" alt="Elastic Stack"/> &nbsp;
 <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="40" alt="Grafana"/> &nbsp;
 <img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus-logo.svg" width="40" alt="Prometheus"/> &nbsp;
-<img src="https://raw.githubusercontent.com/grafana/loki/master/docs/logo.png" width="40" alt="Loki"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/fluentbit/fluentbit-icon.svg" width="40" alt="Fluent Bit"/> &nbsp;
+<img src="https://grafana.com/static/img/logos/logo-loki.svg" width="45" /> &nbsp;
+<img src="https://fluentbit.io/assets/img/logo1-default.png" width="45" /> &nbsp;
+
 
 <!-- Languages -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/> &nbsp;
