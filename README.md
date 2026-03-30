@@ -69,10 +69,13 @@ Paste everything into README.md
 <div align="center">
 
 ### **Infrastructure & Cloud**
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,bash,terraform,ansible,jenkins,githubactions&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,linux,bash,terraform,ansible,jenkins,githubactions&theme=dark)](https://skillicons.dev)
 
 ### **Systems & Observability**
 [![My Skills](https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus,python,git&theme=dark)](https://skillicons.dev)
+
+### **AI & Productivity**
+[![My Skills](https://skillicons.dev/icons?i=chatgpt,claude&theme=dark)](https://skillicons.dev)
 
 </div>
 
