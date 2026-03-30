@@ -10,10 +10,10 @@ Paste everything into README.md
 <div align="center">
 
 # ⚡ SYSTEM STATUS: ONLINE
-<br />
+
 [![Availability](https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-10B981?style=for-the-badge&logo=statuspage&logoColor=white)](https://gulshkr.com)
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Automation+Expert;Kubernetes+Architect;Building+Scalable+Cloud+Systems;Automating+Everything" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Automation+Expert;Kubernetes+Architect;Building+Scalable+Cloud+Systems;Automating+Everything" alt="Typing SVG" />
 
 ---
 
